@@ -7,7 +7,7 @@ Software Engineer
 Learning to code CSS since my Sophomore year of High School, then making a career switch to P.T but making a career switch recently to Software Engineer, finding my true passion for backend development. Attending Roosevelt University 2022-24 for my Master's in Computer Science while also mentoring HSI STEM students. Currently working on some side projects and activities, stay tuned adding more stuff soon!
 
 * 🌍  I'm based in Chicago, IL
-* 🖥️  See my portfolio at [LinkedIn]([http://www.linkedin.com/in/juan-sosa-220177227/](https://www.linkedin.com/in/juan-sosa-220177227/))
+* 🖥️  See my portfolio at [LinkedIn](http://www.linkedin.com/in/juan-sosa-220177227/)
 * ✉️  You can contact me at [jcsosa0003@gmail.com](mailto:jcsosa0003@gmail.com)
 * 🧠  I'm learning Python and SQL at the moment!
 * 🤝  I'm open to collaborating on projects that can make improvements on our everyday life.
@@ -31,7 +31,7 @@ src="https://img.shields.io/github/followers/jcsosa0003?logo=github&style=for-th
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/jcsosa0003" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/JuanSosa" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/jcsosa0003" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/juan-sosa-220177227/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
