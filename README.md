@@ -1,42 +1,33 @@
-Welcome! 👋 My name is Juan C. Sosa!
-==========================
+<h1 align="center">Hello 👋, I'm Juan C. Sosa</h1>
+<h3 align="center">A passionate full stack developer from Chicago</h3>
 
-Fullstack Developer
------------------
+<p align="center">Computer Science graduate student and Full Stack Developer, dedicated to pushing the boundaries of technology. Passionate about learning, exploring, and creating innovative solutions. Proficient in frontend and backend development, with a strong focus on user experience and clean, scalable code. Excited to contribute to the world of computer science and make a positive impact. Let's collaborate and build the future together!</p>
 
-Learning to code and build websites since Sophomore year of High School, making a career switch to Physical Training. Shortly, making a career switch back to coding and developing. Attending Roosevelt University 2022-24 for my Master's in Computer Science while also working as a graduate assistant for MOCA (Men of Color Ascending) students. Currently working on some side projects and activities, stay tuned adding more stuff soon. PC building enthusiast!
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=jcsosa0003&label=Profile%20views&color=0e75b6&style=flat" alt="jcsosa0003" /> </p>
 
-Link to my personal portfolio site: (www)
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jcsosa0003" alt="jcsosa0003" /></a> </p>
 
-* 🌍  Based in Chicago, IL
-* 🖥️  See my portfolio at [LinkedIn](http://www.linkedin.com/in/juan-sosa-220177227/)
-* ✉️  You can contact me at [jcsosa0003@gmail.com](mailto:jcsosa0003@gmail.com)
-* 🧠  Completed my first year for my master's in Computer Science as of May, 2023. Completed my first full stack developer internship in May, 2023.
-* 🤝  I'm open to collaborating on projects that can make improvements on our everyday life.
-* ⚡  Everything can be improved and every problem has a solution, I want to fix it all!
+- 🌱 Currently expanding knownledge on **AngularJS and React.**
 
-<a href="https://www.github.com/jcsosa0003" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/jcsosa0003?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+- 👯 In my recent internship, proudly collaborated on [myRIO](https://myrio.io/) and [myRIOHackathon](https://myrio.io/hackathon.html)
 
-### Skills
+- 👨‍💻 All of my projects, history and resume are available at: [Showcase](https://www.showwcase.com/jcsosa0003158)
 
+- 💬 Ask me about **PC building, football and gaming!**
+
+- 📫 Reach me at: **jcsosa0003@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/juan-sosa-220177227/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/juan-sosa-220177227/" height="30" width="40" /></a>
+<a href="https://www.showwcase.com/jcsosa0003158" target="blank"><img align="center" src="https://media.licdn.com/dms/image/C4E0BAQEQ8GtXpihTlA/company-logo_200_200/0/1633746807779?e=1692835200&v=beta&t=9gO4VJEVbozWA5HsrFNl2tl7Uhjq5mPqb_ubkNR2BAw" alt="https://www.showwcase.com/jcsosa0003158" height="50" width="50" /></a>
 </p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
 
-### Socials
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jcsosa0003&show_icons=true&locale=en&layout=compact" alt="jcsosa0003" /></p>
 
-<p align="left"> <a href="https://www.github.com/jcsosa0003" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/juan-sosa-220177227/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jcsosa0003&show_icons=true&locale=en" alt="jcsosa0003" /></p>
 
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/jcsosa0003"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jcsosa0003&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jcsosa0003&" alt="jcsosa0003" /></p>
