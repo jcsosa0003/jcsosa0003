@@ -9,7 +9,7 @@
 
 - 🌱 Currently expanding knownledge on **AngularJS and React and other important frameworks and platforms.**
 
-- 👯 In my recent internship, proudly collaborated on [myRIO](https://myrio.io/) and [myRIOHackathon](https://myrio.io/hackathon.html)
+- 👯 In my recent internship, proudly collaborated on [myRIO](https://myrio.io/) and [myRIO Hackathon](https://myrio.io/hackathon.html)
 
 - 👨‍💻 All of my projects, history and resume are available at: [Showcase](https://www.showwcase.com/jcsosa0003158)
 
