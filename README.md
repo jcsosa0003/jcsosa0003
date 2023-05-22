@@ -6,10 +6,10 @@ Software Engineer
 
 Learning to code CSS since my Sophomore year of High School, then making a career switch to P.T but making a career switch recently to Software Engineer, finding my true passion for backend development. Attending Roosevelt University 2022-24 for my Master's in Computer Science while also mentoring HSI STEM students. Currently working on some side projects and activities, stay tuned adding more stuff soon!
 
-* 🌍  I'm based in Chicago, IL
+* 🌍  Based in Chicago, IL
 * 🖥️  See my portfolio at [LinkedIn](http://www.linkedin.com/in/juan-sosa-220177227/)
 * ✉️  You can contact me at [jcsosa0003@gmail.com](mailto:jcsosa0003@gmail.com)
-* 🧠  I'm learning Python and SQL at the moment!
+* 🧠  Currently completed my first year for my master's in Computer Science.
 * 🤝  I'm open to collaborating on projects that can make improvements on our everyday life.
 * ⚡  Everything can be improved and every problem has a solution, I want to fix it all!
 
