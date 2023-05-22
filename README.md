@@ -11,7 +11,7 @@ Link to my personal portfolio site: (www)
 * 🌍  Based in Chicago, IL
 * 🖥️  See my portfolio at [LinkedIn](http://www.linkedin.com/in/juan-sosa-220177227/)
 * ✉️  You can contact me at [jcsosa0003@gmail.com](mailto:jcsosa0003@gmail.com)
-* 🧠  Currently completed my first year for my master's in Computer Science. Completed my first full stack developer internship in May, 2023.
+* 🧠  Completed my first year for my master's in Computer Science as of May, 2023. Completed my first full stack developer internship in May, 2023.
 * 🤝  I'm open to collaborating on projects that can make improvements on our everyday life.
 * ⚡  Everything can be improved and every problem has a solution, I want to fix it all!
 
