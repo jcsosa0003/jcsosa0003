@@ -1,15 +1,15 @@
-Hi 👋 My name is Juan Sosa
+Welcome! 👋 My name is Juan C. Sosa!
 ==========================
 
-Software Engineer
+Fullstack Developer
 -----------------
 
-Learning to code CSS since my Sophomore year of High School, then making a career switch to P.T but making a career switch recently to Software Engineer, finding my true passion for backend development. Attending Roosevelt University 2022-24 for my Master's in Computer Science while also mentoring HSI STEM students. Currently working on some side projects and activities, stay tuned adding more stuff soon!
+Learning to code and build websites since Sophomore year of High School, making a career switch to Physical Training. Shortly, making a career switch back to coding and developing. Attending Roosevelt University 2022-24 for my Master's in Computer Science while also working as a graduate assistant for MOCA (Men of Color Ascending) students. Currently working on some side projects and activities, stay tuned adding more stuff soon! PC building enthusiast!
 
 * 🌍  Based in Chicago, IL
 * 🖥️  See my portfolio at [LinkedIn](http://www.linkedin.com/in/juan-sosa-220177227/)
 * ✉️  You can contact me at [jcsosa0003@gmail.com](mailto:jcsosa0003@gmail.com)
-* 🧠  Currently completed my first year for my master's in Computer Science.
+* 🧠  Currently completed my first year for my master's in Computer Science. 
 * 🤝  I'm open to collaborating on projects that can make improvements on our everyday life.
 * ⚡  Everything can be improved and every problem has a solution, I want to fix it all!
 
